@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ### Docker
 
-    $ docker run --rm -it -v $(pwd):/var/backups splattael/phpmyadmin-backup
+    $ docker run --rm -v $(pwd):/var/backups splattael/phpmyadmin-backup URL USERNAME PASSWORD
 
 ## Contributing
 
